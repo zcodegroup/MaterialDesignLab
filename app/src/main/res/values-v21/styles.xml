@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<style name="AppTheme" parent="android:Theme.Material.Light">-->
+    <!--</style>-->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#3F51B5</item>  <!-- Light Indigo -->
+        <item name="colorPrimaryDark">#303F9F</item>  <!-- Dark Indigo -->
+        <item name="colorAccent">#E91E63</item>  <!-- Magenta -->
+    </style>
+
+</resources>
